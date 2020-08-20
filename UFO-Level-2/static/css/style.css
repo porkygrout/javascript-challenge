@@ -98,7 +98,7 @@ select {
   padding: 20px;
   margin: 0;
   background: black;
-  background-image: url("https://cdn5.vectorstock.com/i/1000x1000/46/74/flying-ufo-vector-18054674.jpg");
+  background-image: url("https://vintage45.files.wordpress.com/2010/06/1152x860ifm1hh5.jpg");
   /* background-image: url("../images/nasa.jpg"); */
   background-attachment: fixed;
   background-position: bottom center;
@@ -121,7 +121,7 @@ select {
 /* input placeholder color changes */
 .form-control::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
-  color: #8e979f;
+  color: #8e9f99;
 }
 
 .form-control::-moz-placeholder {
@@ -154,7 +154,7 @@ select {
   #table-area tr td:first-child {
     font-size: 1.8em;
     font-weight: bold;
-    background: #1b3146;
+    background: #214c5e;
   }
 
   #table-area tr td:last-child {
